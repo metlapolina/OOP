@@ -1,0 +1,42 @@
+Lab_OOP_12.Test - Method - get_Test1
+
+Lab_OOP_12.Test - Method - set_Test1
+
+Lab_OOP_12.Test - Method - get_Test2
+
+Lab_OOP_12.Test - Method - set_Test2
+
+Lab_OOP_12.Test - Method - get_Name
+
+Lab_OOP_12.Test - Method - set_Name
+
+Lab_OOP_12.Test - Method - Sum
+
+Lab_OOP_12.Test - Method - ToDo
+
+Lab_OOP_12.Test - Method - ToString
+
+Lab_OOP_12.Test - Method - ToConsole
+
+System.Object - Method - Equals
+
+System.Object - Method - GetHashCode
+
+System.Object - Method - GetType
+
+Lab_OOP_12.Test - Constructor - .ctor
+
+Lab_OOP_12.Test - Constructor - .ctor
+
+Lab_OOP_12.Test - Property - Test1
+
+Lab_OOP_12.Test - Property - Test2
+
+Lab_OOP_12.Test - Property - Name
+
+Lab_OOP_12.Test - Field - test1
+
+Lab_OOP_12.Test - Field - test2
+
+Lab_OOP_12.Test - Field - name
+

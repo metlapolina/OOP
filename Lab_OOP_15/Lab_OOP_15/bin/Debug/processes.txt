@@ -1,0 +1,774 @@
+ID: 3348
+Process name: lkcitdl
+Priority: 8
+Responding: True
+WorkingSet64: 1986560
+
+ID: 2952
+Process name: sqlwriter
+Priority: 8
+Responding: True
+WorkingSet64: 925696
+
+ID: 5592
+Process name: SynTPHelper
+Priority: 10
+Responding: True
+WorkingSet64: 970752
+
+ID: 2556
+Process name: MsMpEng
+Priority: 8
+Responding: True
+WorkingSet64: 148176896
+
+ID: 5444
+Process name: ctfmon
+Priority: 13
+Responding: True
+WorkingSet64: 7680000
+
+ID: 2356
+Process name: WebCompanion
+Priority: 8
+Responding: True
+WorkingSet64: 7426048
+
+ID: 3536
+Process name: Video.UI
+Priority: 8
+Responding: True
+WorkingSet64: 30859264
+
+ID: 2156
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4657152
+
+ID: 776
+Process name: csrss
+Priority: 13
+Responding: True
+WorkingSet64: 2629632
+
+ID: 9024
+Process name: RdrCEF
+Priority: 8
+Responding: True
+WorkingSet64: 51204096
+
+ID: 2744
+Process name: ShellExperienceHost
+Priority: 8
+Responding: True
+WorkingSet64: 69632
+
+ID: 8456
+Process name: RdrCEF
+Priority: 8
+Responding: True
+WorkingSet64: 31862784
+
+ID: 1560
+Process name: sihost
+Priority: 8
+Responding: True
+WorkingSet64: 13410304
+
+ID: 240
+Process name: ServiceHub.SettingsHost
+Priority: 8
+Responding: True
+WorkingSet64: 35491840
+
+ID: 764
+Process name: wininit
+Priority: 13
+Responding: True
+WorkingSet64: 794624
+
+ID: 368
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 14749696
+
+ID: 2928
+Process name: SecurityHealthService
+Priority: 8
+Responding: True
+WorkingSet64: 5271552
+
+ID: 4700
+Process name: ONENOTEM
+Priority: 8
+Responding: True
+WorkingSet64: 1433600
+
+ID: 304
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 14159872
+
+ID: 1940
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5369856
+
+ID: 756
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 8056832
+
+ID: 7256
+Process name: sedsvc
+Priority: 8
+Responding: True
+WorkingSet64: 1327104
+
+ID: 6860
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5275648
+
+ID: 2040
+Process name: Memory Compression
+Priority: 8
+Responding: True
+WorkingSet64: 139427840
+
+ID: 2100
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 6336512
+
+ID: 5476
+Process name: SearchIndexer
+Priority: 8
+Responding: True
+WorkingSet64: 26435584
+
+ID: 6760
+Process name: devenv
+Priority: 8
+Responding: True
+WorkingSet64: 324554752
+
+ID: 2912
+Process name: RtkBtManServ
+Priority: 8
+Responding: True
+WorkingSet64: 1986560
+
+ID: 6652
+Process name: NisSrv
+Priority: 8
+Responding: True
+WorkingSet64: 1925120
+
+ID: 3128
+Process name: Microsoft.Photos
+Priority: 8
+Responding: True
+WorkingSet64: 38092800
+
+ID: 6252
+Process name: SearchUI
+Priority: 8
+Responding: True
+WorkingSet64: 29265920
+
+ID: 1524
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 23920640
+
+ID: 536
+Process name: fontdrvhost
+Priority: 8
+Responding: True
+WorkingSet64: 4853760
+
+ID: 4696
+Process name: PerfWatson2
+Priority: 8
+Responding: True
+WorkingSet64: 46321664
+
+ID: 7032
+Process name: Dropbox
+Priority: 8
+Responding: True
+WorkingSet64: 1929216
+
+ID: 2732
+Process name: lkads
+Priority: 8
+Responding: True
+WorkingSet64: 2134016
+
+ID: 1316
+Process name: AcroRd32
+Priority: 8
+Responding: True
+WorkingSet64: 55894016
+
+ID: 2388
+Process name: wlanext
+Priority: 8
+Responding: True
+WorkingSet64: 1560576
+
+ID: 8996
+Process name: cmd
+Priority: 8
+Responding: True
+WorkingSet64: 3608576
+
+ID: 5252
+Process name: taskhostw
+Priority: 8
+Responding: True
+WorkingSet64: 8249344
+
+ID: 3084
+Process name: QtWebEngineProcess
+Priority: 4
+Responding: True
+WorkingSet64: 2596864
+
+ID: 1704
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 8736768
+
+ID: 2828
+Process name: niauth_daemon
+Priority: 8
+Responding: True
+WorkingSet64: 1622016
+
+ID: 1504
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 11862016
+
+ID: 9184
+Process name: MSBuild
+Priority: 8
+Responding: True
+WorkingSet64: 36446208
+
+ID: 7804
+Process name: ServiceHub.VSDetouredHost
+Priority: 8
+Responding: True
+WorkingSet64: 54071296
+
+ID: 5044
+Process name: NIWebServiceContainer
+Priority: 8
+Responding: True
+WorkingSet64: 1257472
+
+ID: 2876
+Process name: nisvcloc
+Priority: 8
+Responding: True
+WorkingSet64: 1085440
+
+ID: 6420
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 11042816
+
+ID: 2676
+Process name: IpOverUsbSvc
+Priority: 8
+Responding: True
+WorkingSet64: 2605056
+
+ID: 4384
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 8536064
+
+ID: 7984
+Process name: RAVCpl64
+Priority: 8
+Responding: True
+WorkingSet64: 1953792
+
+ID: 7400
+Process name: RAVBg64
+Priority: 8
+Responding: True
+WorkingSet64: 2723840
+
+ID: 3412
+Process name: nimdnsResponder
+Priority: 8
+Responding: True
+WorkingSet64: 1896448
+
+ID: 1092
+Process name: dwm
+Priority: 13
+Responding: True
+WorkingSet64: 33120256
+
+ID: 4736
+Process name: NIWebServiceContainer
+Priority: 8
+Responding: True
+WorkingSet64: 1384448
+
+ID: 4832
+Process name: NIWebServiceContainer
+Priority: 8
+Responding: True
+WorkingSet64: 1318912
+
+ID: 1876
+Process name: RadeonSettings
+Priority: 8
+Responding: True
+WorkingSet64: 1777664
+
+ID: 8464
+Process name: RdrCEF
+Priority: 8
+Responding: True
+WorkingSet64: 27619328
+
+ID: 3056
+Process name: Lavasoft.WCAssistant.WinService
+Priority: 8
+Responding: True
+WorkingSet64: 6696960
+
+ID: 7980
+Process name: LockApp
+Priority: 8
+Responding: True
+WorkingSet64: 368640
+
+ID: 2772
+Process name: ServiceHub.Host.Node.x86
+Priority: 8
+Responding: True
+WorkingSet64: 18075648
+
+ID: 884
+Process name: lsass
+Priority: 9
+Responding: True
+WorkingSet64: 5894144
+
+ID: 1080
+Process name: SgrmBroker
+Priority: 8
+Responding: True
+WorkingSet64: 2609152
+
+ID: 3016
+Process name: SynTPEnhService
+Priority: 8
+Responding: True
+WorkingSet64: 868352
+
+ID: 3948
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2453504
+
+ID: 2476
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Priority: 6
+Responding: True
+WorkingSet64: 85643264
+
+ID: 8168
+Process name: RAVBg64
+Priority: 8
+Responding: True
+WorkingSet64: 2764800
+
+ID: 876
+Process name: winlogon
+Priority: 13
+Responding: True
+WorkingSet64: 2654208
+
+ID: 2648
+Process name: DbxSvc
+Priority: 8
+Responding: True
+WorkingSet64: 1044480
+
+ID: 904
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 7622656
+
+ID: 9144
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 9986048
+
+ID: 2248
+Process name: spoolsv
+Priority: 8
+Responding: True
+WorkingSet64: 3497984
+
+ID: 1656
+Process name: SynTPEnh
+Priority: 10
+Responding: True
+WorkingSet64: 4780032
+
+ID: 4968
+Process name: SSScheduler
+Priority: 8
+Responding: True
+WorkingSet64: 835584
+
+ID: 5200
+Process name: DropboxUpdate
+Priority: 8
+Responding: True
+WorkingSet64: 1462272
+
+ID: 3228
+Process name: dasHost
+Priority: 8
+Responding: True
+WorkingSet64: 5677056
+
+ID: 3424
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6365184
+
+ID: 4728
+Process name: ApplicationWebServer
+Priority: 8
+Responding: True
+WorkingSet64: 2723840
+
+ID: 2632
+Process name: FoxitConnectedPDFService
+Priority: 8
+Responding: True
+WorkingSet64: 3530752
+
+ID: 4404
+Process name: SystemWebServer
+Priority: 8
+Responding: True
+WorkingSet64: 2506752
+
+ID: 4776
+Process name: PresentationFontCache
+Priority: 8
+Responding: True
+WorkingSet64: 3448832
+
+ID: 9720
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 9883648
+
+ID: 10236
+Process name: SearchProtocolHost
+Priority: 4
+Responding: True
+WorkingSet64: 7819264
+
+ID: 2624
+Process name: hasplms
+Priority: 8
+Responding: True
+WorkingSet64: 9875456
+
+ID: 2032
+Process name: atieclxx
+Priority: 8
+Responding: True
+WorkingSet64: 1929216
+
+ID: 652
+Process name: csrss
+Priority: 13
+Responding: True
+WorkingSet64: 1527808
+
+ID: 7152
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 11923456
+
+ID: 1240
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13082624
+
+ID: 7936
+Process name: MSASCuiL
+Priority: 8
+Responding: True
+WorkingSet64: 1433600
+
+ID: 2616
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 14540800
+
+ID: 5372
+Process name: SkypeBackgroundHost
+Priority: 8
+Responding: True
+WorkingSet64: 53248
+
+ID: 840
+Process name: services
+Priority: 9
+Responding: True
+WorkingSet64: 4657152
+
+ID: 1232
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 23625728
+
+ID: 1680
+Process name: atiesrxx
+Priority: 8
+Responding: True
+WorkingSet64: 901120
+
+ID: 9700
+Process name: Lab_OOP_15
+Priority: 8
+Responding: True
+WorkingSet64: 10772480
+
+ID: 3196
+Process name: uihost
+Priority: 8
+Responding: True
+WorkingSet64: 4476928
+
+ID: 2604
+Process name: armsvc
+Priority: 8
+Responding: True
+WorkingSet64: 1290240
+
+ID: 1224
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 35016704
+
+ID: 1580
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 8376320
+
+ID: 5752
+Process name: explorer
+Priority: 8
+Responding: True
+WorkingSet64: 81104896
+
+ID: 2796
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7966720
+
+ID: 2400
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 905216
+
+ID: 9840
+Process name: git
+Priority: 8
+Responding: True
+WorkingSet64: 8163328
+
+ID: 1216
+Process name: AcroRd32
+Priority: 8
+Responding: True
+WorkingSet64: 16027648
+
+ID: 1016
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 15122432
+
+ID: 2000
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 995328
+
+ID: 5412
+Process name: ServiceHub.IdentityHost
+Priority: 8
+Responding: True
+WorkingSet64: 36691968
+
+ID: 9876
+Process name: SearchProtocolHost
+Priority: 8
+Responding: True
+WorkingSet64: 81920
+
+ID: 6080
+Process name: WinStore.App
+Priority: 8
+Responding: False
+WorkingSet64: 60850176
+
+ID: 104
+Process name: Registry
+Priority: 8
+Responding: True
+WorkingSet64: 19296256
+
+ID: 3440
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 69898240
+
+ID: 7064
+Process name: acrotray
+Priority: 8
+Responding: True
+WorkingSet64: 1343488
+
+ID: 2976
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 1695744
+
+ID: 6432
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 2347008
+
+ID: 2776
+Process name: servicehost
+Priority: 8
+Responding: True
+WorkingSet64: 29945856
+
+ID: 3364
+Process name: lktsrv
+Priority: 8
+Responding: True
+WorkingSet64: 2269184
+
+ID: 408
+Process name: smss
+Priority: 11
+Responding: True
+WorkingSet64: 270336
+
+ID: 6120
+Process name: nierserver
+Priority: 8
+Responding: True
+WorkingSet64: 1441792
+
+ID: 3532
+Process name: Dropbox
+Priority: 8
+Responding: True
+WorkingSet64: 54755328
+
+ID: 1980
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3936256
+
+ID: 8
+Process name: fontdrvhost
+Priority: 8
+Responding: True
+WorkingSet64: 159744
+
+ID: 3356
+Process name: nidmsrv
+Priority: 8
+Responding: True
+WorkingSet64: 2211840
+
+ID: 6704
+Process name: ApplicationFrameHost
+Priority: 8
+Responding: True
+WorkingSet64: 21868544
+
+ID: 4
+Process name: System
+Priority: 8
+Responding: True
+WorkingSet64: 139264
+
+ID: 6040
+Process name: Dropbox
+Priority: 8
+Responding: True
+WorkingSet64: 1183744
+
+ID: 1184
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 31883264
+
+ID: 6280
+Process name: dllhost
+Priority: 8
+Responding: True
+WorkingSet64: 1523712
+
+ID: 0
+Process name: Idle
+Priority: 0
+Responding: True
+WorkingSet64: 8192
+

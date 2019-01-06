@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\bin\Debug\Lab_OOP_3.exe.config
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\bin\Debug\Lab_OOP_3.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\bin\Debug\Lab_OOP_3.pdb
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\obj\Debug\Lab_OOP_3.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\obj\Debug\Lab_OOP_3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\obj\Debug\Lab_OOP_3.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_3\Lab_OOP_3\obj\Debug\Lab_OOP_3.pdb

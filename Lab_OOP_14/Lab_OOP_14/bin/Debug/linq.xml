@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <bookstore name="Barter Books">
+    <country>GB</country>
+    <city>Alnwick</city>
+  </bookstore>
+  <bookstore name="The Abbey Bookshop">
+    <country>France</country>
+    <city>Paris</city>
+  </bookstore>
+</root>

@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Book id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab_OOP_14/Lab_OOP_14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<nameOfW id="ref-3">The Green Mile</nameOfW>
+<firstName id="ref-4">Stephen</firstName>
+<lastName id="ref-5">King</lastName>
+<Author_x002B_firstName href="#ref-4"/>
+<Author_x002B_lastName href="#ref-5"/>
+</a1:Book>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\bin\Debug\Lab_OOP_1.exe.config
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\bin\Debug\Lab_OOP_1.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\bin\Debug\Lab_OOP_1.pdb
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\obj\Debug\Lab_OOP_1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\obj\Debug\Lab_OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\obj\Debug\Lab_OOP_1.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\obj\Debug\Lab_OOP_1.pdb
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_1\Lab_OOP_1\obj\Debug\Lab_OOP_1.csproj.CopyComplete

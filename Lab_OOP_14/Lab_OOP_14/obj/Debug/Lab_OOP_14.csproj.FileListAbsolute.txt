@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\bin\Debug\Lab_OOP_14.exe.config
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\bin\Debug\Lab_OOP_14.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\bin\Debug\Lab_OOP_14.pdb
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\obj\Debug\Lab_OOP_14.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\obj\Debug\Lab_OOP_14.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\obj\Debug\Lab_OOP_14.exe
+C:\Users\Lenovo\Desktop\Учеба\2 курс\ООП\лабы\Lab_OOP_14\Lab_OOP_14\obj\Debug\Lab_OOP_14.pdb

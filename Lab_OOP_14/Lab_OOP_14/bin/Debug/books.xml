@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBooks>
+    <Book part="1">
+        <FirstName>Joanne</FirstName>
+        <LastName>Rowling</LastName>
+        <NameOfW>Harry Potter and the Philosopher's Stone</NameOfW>
+    </Book>
+    <Book part="2">
+        <FirstName>Joanne</FirstName>
+        <LastName>Rowling</LastName>
+        <NameOfW>Harry Potter and the Prisoner of Azkaban</NameOfW>
+    </Book>
+    <Book part="3">
+        <FirstName>Joanne</FirstName>
+        <LastName>Rowling</LastName>
+        <NameOfW>Harry Potter and the Order of the Phoenix</NameOfW>
+    </Book>
+</ArrayOfBooks>
